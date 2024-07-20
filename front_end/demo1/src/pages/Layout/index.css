@@ -1,0 +1,17 @@
+#root, body, html {
+  height: 100%;
+}
+
+.ant-layout {
+  display: flex;
+  width: 100%;
+  min-height: 100%;
+}
+
+.sider {
+  min-height: 100%;
+}
+
+.ant-layout-header {
+  padding: 0 !important;
+}
