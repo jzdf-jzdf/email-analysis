@@ -7,7 +7,6 @@ import {
   HomeOutlined,
   MailOutlined,
   EditOutlined,
-  LogoutOutlined,
 } from '@ant-design/icons'
 const { Header, Content, Sider } = Layout;
 const items = [
